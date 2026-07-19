@@ -1,4 +1,4 @@
-DateTime==6.0
-pandas==2.3.3
-streamlit==1.51.0
-yfinance==1.5.1
+DateTime
+pandas
+streamlit
+yfinance
